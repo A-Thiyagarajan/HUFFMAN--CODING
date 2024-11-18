@@ -1,4 +1,4 @@
-# Huffman-Coding
+# Exp-11-IMPLEMENTATION OF HUFFMAN CODING
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
